@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311261956425",
+    "project_id": "milkteav1-57790",
+    "storage_bucket": "milkteav1-57790.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311261956425:android:c15a6da1ef79757ab47298",
+        "android_client_info": {
+          "package_name": "com.example.milktea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr7LjruKjyzVnWpag75ZU6LlDebMuo6G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
